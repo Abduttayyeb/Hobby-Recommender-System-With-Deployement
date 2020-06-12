@@ -1,3 +1,0 @@
-It is so great to put your trained machine learning models into production using Flask API.
-In Flask App.py i have written code which when integrated with a bit of html files will result in a simple webpage which could
-take input from the user and return a predicted hobby.
