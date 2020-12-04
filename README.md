@@ -1,5 +1,5 @@
 DEMO: https://hobby-recommender.herokuapp.com/
-# Machine-Learning-Project-With-Deployement
+# Hobby-Recommender-Sytem 
 
 This Machine Learning Project was attempted in our early first year of CSE which was based on the fact that tenagers tend to have confusion in deciding which Field/Hobby they fit in or love to do, so we attempted in making a classification model which could help the Parents in deciding their child's Area Of Interest.
 
