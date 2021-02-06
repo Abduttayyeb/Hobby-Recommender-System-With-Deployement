@@ -1,7 +1,7 @@
 DEMO: https://hobby-recommender.herokuapp.com/
 # Hobby-Recommender-Sytem 
 
-This Machine Learning Project was attempted in our early first year of CSE which was based on the fact that tenagers tend to have confusion in deciding which Field/Hobby they fit in or love to do, so we attempted in making a classification model which could help the Parents in deciding their child's Area Of Interest.
+This Machine Learning Project was attempted in our early first year of CSE which was based on the fact that teenagers tend to have confusion in deciding which Field/Hobby they fit in or love to do, so we attempted in making a classification model which could help the Parents in deciding their child's Area Of Interest.
 
 ## Classification Algorithm:
 We Implemented Support Vector Classification Algorithm, In Short we performed classification by finding the hyper-plane that differentiates the classes very well,now ,to find the right hyper-plane we maximize the distances between nearest data point (either class) and it will help us to decide the right hyper-plane. 
